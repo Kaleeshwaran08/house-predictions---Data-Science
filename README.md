@@ -1,6 +1,7 @@
 # house-predictions---Data-Science
 
 **Indroduction**
+
 Drawing from my knowledge and experience in Machine Learning, I have studied various approaches to solve ML problems, including selecting relevant columns, addressing missing data, repairing categorical columns, testing data in various ways based on our initial hypotheses, and utilizing modules to forecast the result.
 
 In order to manage tasks like preparation and output calculation for the test data, I also built a pipeline.
