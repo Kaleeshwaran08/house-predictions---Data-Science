@@ -9,6 +9,9 @@ In order to manage tasks like preparation and output calculation for the test da
 **Running the code**
 
   1.The data is present in train.csv.
+  
   2.To understand the data, please read data_description.txt
+  
   3.Download the repository, making sure that train.csv and Housing Price Analysis.ipynb are in the same folder.
+  
   4.Now you can run the whole Notebook (BHousing Price Analysis.ipynb) from top to bottom.
